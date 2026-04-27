@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+
+# model files (optional)
+*.h5
+
+# OS files
+.DS_Store
+Thumbs.db

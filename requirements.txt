@@ -1,0 +1,15 @@
+numpy
+pandas
+Pillow
+matplotlib
+streamlit
+keras
+tensorflow
+pandas_datareader
+yfinance
+scikit-learn
+plotly
+ta
+statsmodels
+textblob
+feedparser
